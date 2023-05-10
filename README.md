@@ -1,1 +1,1 @@
-# mern-stack-sikho-padkar app
+# sikho-padkar app
